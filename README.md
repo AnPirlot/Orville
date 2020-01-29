@@ -1,11 +1,27 @@
 ## Welkom op Orville.be
 
-Wij zijn An Pirlot en Vincent Ramaekers. Wij hebben samen Orville opgericht, een jong Limburgs bedrijf, omdat we in verschillende dingen geloven. Wij geloven in lokaal ondernemen en dat niet alles vanuit Brussel aangestuurd moet worden. We geloven in mensen controle geven over hun eigen leven. We geloven in agile werken en iteratief producten verbeteren. We geloven in producten die meewerken, in plaats van tegenwerken. Wij geloven in ondernemen en soms eens iets uitproberen om een wezelijk verschil te kunnen maken. Dit is de reden waarom we ervoor gaan binnen Orville.
+Wij zijn An Pirlot en Vincent Ramaekers. Samen hebben wij Orville opgericht, een jong Limburgs bedrijf. Binnen Orville werken wij ideeën uit tot producten. We ontwikkelen onze eigen producten maar willen ook andere bedrijven helpen in hun ontwikkeling.
 
+Innovatie, vernieuwing en problemen oplossen zijn niet het voorrecht van de grote spelers. Ieder van ons is er toe instaat. Wij willen mensen en bedrijven helpen om hun ideëen te realiseren en hun problemen op te lossen.
 
 ### Wat doen we?
-Wij ontwikkelen zowel onze eigen producten als dat we willen samenwerken met andere bedrijven om hen in hun productontwikkeling te ondersteunen. Dit houdt in product design, inventor/fusion modelering en detaillering, prototyping, 3D printwerk, klein laswerk, ...
-Als jullie op zoek zijn naar iets specifiek dat hier niet tussenstaat, contacteer ons.
+De focus van Orville ligt op het oplossen van problemen en het uitwerken van ideëen. Dit houdt in dat u voor de volgende dingen bij ons terecht kunt:
+- Product Ontwikkeling
+- 3D Cad modellering (Autodesk Inventor, Fusion 360, ...)
+- Prototyping (3D printen, lassen, ...)
+- Probleem oplossen
+
+Vinden jullie niet wat jullie zoeken, contacteer ons.
+
+
+### Waar staat Orville voor?
+We geloven in de capaciteit van mensen om hun problemen op te lossen.
+We geloven in mensen controle geven over hun eigen leven.
+We geloven in producten die meewerken, in plaats van tegenwerken.
+We geloven in agile werken en het iteratief proces om producten te verbeteren.
+Wij geloven in ondernemen en de moed om in het diepe te springen.
+Wij geloven in lokaal ondernemen. Problemen oplossen waar ze ontstaan. 
+
 
 ### Support or Contact
 
