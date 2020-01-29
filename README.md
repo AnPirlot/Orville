@@ -15,11 +15,11 @@ Vinden jullie niet wat jullie zoeken, contacteer ons.
 
 
 ### Waar staat Orville voor?
-We geloven in de capaciteit van mensen om hun problemen op te lossen.\
-We geloven in mensen controle geven over hun eigen leven.\
-We geloven in producten die meewerken, in plaats van tegenwerken.\
-We geloven in agile werken en het iteratief proces om producten te verbeteren.\
-Wij geloven in ondernemen en de moed om in het diepe te springen.\
+We geloven in de capaciteit van mensen om hun problemen op te lossen. \
+We geloven in mensen controle geven over hun eigen leven. \
+We geloven in producten die meewerken, in plaats van tegenwerken. \
+We geloven in agile werken en het iteratief proces om producten te verbeteren. \
+Wij geloven in ondernemen en de moed om in het diepe te springen. \
 Wij geloven in lokaal ondernemen. Problemen oplossen waar ze ontstaan.
 
 
