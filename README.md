@@ -11,5 +11,6 @@ Als jullie op zoek zijn naar iets specifiek dat hier niet tussenstaat, contactee
 
 e-mail: info@orville.be
 
-tel:  An Pirlot at +32 497 72 80 32
-      Vincent Ramaekers at +32 484 14 37 51
+tel:  
+* An Pirlot: +32 497 72 80 32
+* Vincent Ramaekers: +32 484 14 37 51
