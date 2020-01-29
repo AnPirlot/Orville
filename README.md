@@ -4,7 +4,7 @@ Wij zijn An Pirlot en Vincent Ramaekers. Wij hebben samen Orville opgericht, een
 
 
 ### Wat doen we?
-Wij ontwikkelen zowel onze eigen producten als dat we willen samenwerken met andere bedrijven in het verder uitwerken van hun producten. Dit houdt in product design, inventor/fusion modelering en detaillering, prototyping, 3D printwerk, klein laswerk, ...
+Wij ontwikkelen zowel onze eigen producten als dat we willen samenwerken met andere bedrijven om hen in hun productontwikkeling te ondersteunen. Dit houdt in product design, inventor/fusion modelering en detaillering, prototyping, 3D printwerk, klein laswerk, ...
 Als jullie op zoek zijn naar iets specifiek dat hier niet tussenstaat, contacteer ons.
 
 ### Support or Contact
